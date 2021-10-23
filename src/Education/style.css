@@ -1,0 +1,14 @@
+.cd{
+    margin-bottom: 50px;
+
+}
+.btn:hover{
+    transform: scale(1.4);
+}
+.btn{
+    margin-bottom: 30px;
+}
+.col-md-4{
+    margin-bottom: 30px;
+}
+

@@ -1,0 +1,16 @@
+.container{
+    margin-bottom: 50px;
+  
+}
+.skill{
+    
+    border-radius: 10px;
+    background-image: url('D:\reactpractice\portfo\src\home.jpeg');
+    
+}
+.skill:hover{
+transform: scale(1.05);
+/*background-color: rgb(147, 211, 189);*/
+background-image: url('D:\reactpractice\portfo\src\home.jpeg');
+}
+
